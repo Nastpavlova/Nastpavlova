@@ -3,7 +3,7 @@
 ### Junior Frontend Developer | React Developer
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nastpavlovax)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nastpavlovax@mail.ru)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nastpavlovax@email.ru)
 
 
 ---
@@ -38,14 +38,3 @@
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 **GitHub статистика**
-
-<div align="center">
-
-![Nastpavlova's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nastpavlova&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nastpavlova&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nastpavlova&theme=radical)
-
-</div>
